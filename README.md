@@ -16,6 +16,8 @@ Here is my email 1543832341@qq.com
 
 If you want to use your own data set, you can refer to my paper
 
+![image](https://github.com/tangming666/NRC/1.png)
+
 __Dependencies__
 
 Matlab >= 2019b
