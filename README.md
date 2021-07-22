@@ -6,7 +6,6 @@ It should be noted that the data MGCD I use is not public. If you want, you can 
 
 shuangliu.tjnu@gmail.com
 
-Here is my email 1543832341@qq.com
 
 you can refer to my paper
 
