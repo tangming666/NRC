@@ -1,13 +1,15 @@
 
-D is a dictionary
+D.mat is a dictionary
 
-D_ Labels are labels
+D_ Labels.mat is labels
 
-FS is the data of feature selection
+FS.mat is the data of feature selection
 
-Inception V3 is a good training model for inception v3
+Inception V3.mat is a good training model for inception v3
 
-Res is a well trained model of resnet-50
+Res.mat is a well trained model of resnet-50
+
+D.mat ，Inception V3.mat ，Res.mat are in master branch
 
 If you want to use your own data set, you can implement it according to the method described in the paper
 
